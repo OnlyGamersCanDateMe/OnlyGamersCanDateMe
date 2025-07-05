@@ -20,7 +20,7 @@ I've completed my first core course in **C++**, and every project you'll see her
 
 Projects are based on my completed C++ course and reflect real effort, logic-building, and hands-on coding.
 
-👉 **[Explore My C++ Projects Repository](https://github.com/ShivamCore/CPP-Projects)**
+👉 **[Explore My C++ Projects Repository](https://github.com/ShivamCore/cpp)**
 
 Key areas covered:
 - 📁 Arrays, Strings, Pointers
