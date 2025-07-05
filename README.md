@@ -18,7 +18,15 @@ I've completed my first core course in **C++**, and every project you'll see her
 
 ## 📦 Projects I've Built
 
-> Projects are based on my completed **C++ course** and reflect real effort and learning.
+Projects are based on my completed C++ course and reflect real effort, logic-building, and hands-on coding.
+
+👉 **[Explore My C++ Projects Repository](https://github.com/ShivamCore/CPP-Projects)**
+
+Key areas covered:
+- 📁 Arrays, Strings, Pointers
+- 🔄 Loops, Conditionals, Functions
+- 🧱 Classes, Static Members, Friend Functions
+- 🧠 Mini-projects like the ATM Machine (OOP-based)
 
 ### ⚙️ C++ Fundamentals Series  
 Programs covering:
